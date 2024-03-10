@@ -21,3 +21,5 @@ Health calculator
    - Caso de prueba 8: Calcular la BMR para una mujer de 100 años con un peso de 40 kg y una altura de 150 cm.
 
 
+
+![Imagen](https://github.com/DiegoGijonFernandez/isa2024-healthcalc/assets/162824329/126f6cd2-eebf-4214-bea0-06f1f7ee5d08)
