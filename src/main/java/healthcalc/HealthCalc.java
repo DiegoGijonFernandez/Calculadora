@@ -3,7 +3,7 @@ package healthcalc;
 /**
  * Calculator of some health parameters of persons.
  * 
- * @author ISA
+ * @author Diego
  *
  */
 public interface HealthCalc {
@@ -18,7 +18,8 @@ public interface HealthCalc {
 	 * @return 		 	The ideal weight of the person (kg).
 	 * @throws Exception 
 	 */
-	public float idealWeight(int height, char gender) throws Exception;
+	public float idealWeight(int height, char gender) throws Exception ;
+      
 	
 	/**
 	 * Calculate the Basal Metabolic Rate (BMR) of a person with the following formula:
@@ -33,4 +34,5 @@ public interface HealthCalc {
 	 * @throws Exception
 	 */
 	public float basalMetabolicRate(float weight, int height, char gender, int age) throws Exception;
+
 }
