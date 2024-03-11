@@ -23,3 +23,6 @@ Health calculator
 
 
 ![Imagen](https://github.com/DiegoGijonFernandez/isa2024-healthcalc/assets/162824329/126f6cd2-eebf-4214-bea0-06f1f7ee5d08)
+
+Al no funcuionar el commando gitk, muestro esta captura de Github desktop en el que podemos ver los cambios reaalizados a lo largo de la practica:
+![imagencom](https://github.com/DiegoGijonFernandez/isa2024-healthcalc/assets/162824329/173f7e6b-f82f-42b7-86e3-a9119f1aa30a)
