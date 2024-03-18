@@ -1,4 +1,4 @@
-# isa2024-healtcalc
+# practica1
 Health calculator
 1. Cálculo del Peso Ideal:
    - Caso de prueba 1: Calcular el peso ideal para un hombre con una altura de 170 cm.
